@@ -1,6 +1,6 @@
 # Projet-NoSQL-MongoDB
 
-This project is a straight application of The noSql databases using MongoDB
+This project is a straight application of The noSql databases using MongoDB.
 
 
 ## 1-Services (Linux users Only) :
