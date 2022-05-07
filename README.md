@@ -26,6 +26,9 @@ pip install -r requirements.txt
 Python main.py
 ```
 interface.py (Le fichier de l'interface)
+
 manual.py (Le fichier de l'interface du manuel)
+
 world.py (Le fichier qui contient les fonctions manipulatrice de la base de donnée)
+
 main.py (le fichier qui organise l’interraction entre ces derniers)
